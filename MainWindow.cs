@@ -16,6 +16,6 @@ public partial class MainWindow: Gtk.Window
 
 	protected void OnButton2Clicked (object sender, EventArgs e)
 	{
-		label1.Text = "Hello World!!!!";;
+		label1.Text = "Hello Crazy World!!!!";;
 	}
 }

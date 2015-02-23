@@ -25,7 +25,7 @@ public partial class MainWindow
 		this.button2.CanFocus = true;
 		this.button2.Name = "button2";
 		this.button2.UseUnderline = true;
-		this.button2.Label = global::Mono.Unix.Catalog.GetString ("Enter");
+		this.button2.Label = global::Mono.Unix.Catalog.GetString ("Botão Entra");
 		this.fixed1.Add (this.button2);
 		global::Gtk.Fixed.FixedChild w1 = ((global::Gtk.Fixed.FixedChild)(this.fixed1 [this.button2]));
 		w1.X = 150;

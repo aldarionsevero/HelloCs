@@ -21,7 +21,7 @@
             <property name="MemberName" />
             <property name="CanFocus">True</property>
             <property name="Type">TextOnly</property>
-            <property name="Label" translatable="yes">Enter</property>
+            <property name="Label" translatable="yes">Botão Entra</property>
             <property name="UseUnderline">True</property>
             <signal name="Clicked" handler="OnButton2Clicked" />
           </widget>
